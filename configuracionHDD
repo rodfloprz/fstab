@@ -1,3 +1,5 @@
 25af4b75-d019-4ad4-a74a-0c1a8e11ae1b
 
 15257191-fa24-4198-85fd-38a66a567ff2
+
+UUID=14D82C19D82BF81E /data    auto nosuid,nodev,nofail,x-gvfs-show 0 0
